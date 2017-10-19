@@ -1,5 +1,23 @@
 # Dataservice Recommendation Web Demo
 
+## Enviornment
+
+* CentOS7
+* Python 2.7
+* Java 1.8
+* HDP Ambari 2.5.2.0
+ * HDFS
+ * YARN
+ * MapReduce 2
+ * Tez
+ * Hive
+ * Pig
+ * Sqoop
+ * ZooKeeper
+ * Ambari Metrics
+ * Slider
+ * SmartSense
+ * Mahout
 
 ## Data Source: Web Flask
 
